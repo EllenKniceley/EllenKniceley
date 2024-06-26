@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EllenKniceley
 - 👀 I’m interested in getting started with programming.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 📫 How to reach me: ellenobrien34@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have 2 cats.
